@@ -1,3 +1,5 @@
+Ceci est un test
+
 Yawn* That was a refreshing sleep. Ah, Traveler, we meet again! What? You don't remember me? Ahaha, well, allow me to join you on your quest once again. I must see to it that the bards of the world tell the Traveler's tales!
 Chat: Playing the Lyre	 Sure, I'll play you another tune, but it'll cost you an apple.
 Chat: Apple Cider	 Right now I wish I was sat at the top of a tree, looking out over a meadow, cider in hand... *sigh*
