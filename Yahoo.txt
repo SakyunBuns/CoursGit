@@ -1,0 +1,92 @@
+Yawn* That was a refreshing sleep. Ah, Traveler, we meet again! What? You don't remember me? Ahaha, well, allow me to join you on your quest once again. I must see to it that the bards of the world tell the Traveler's tales!
+Chat: Playing the Lyre	 Sure, I'll play you another tune, but it'll cost you an apple.
+Chat: Apple Cider	 Right now I wish I was sat at the top of a tree, looking out over a meadow, cider in hand... *sigh*
+Chat: Ballads	 Come on Traveler, let's go! The world is full of lost ballads just waiting to be rediscovered.
+When It Rains	 Let's go jumping in puddles and see who can make the biggest splash!
+After the Rain	 It's stopped raining already? A shame, I wanted to play some more.
+When It Snows	 Let's wait till the snow gets heavier and have a snowball fight!
+When the Wind Is Blowing	 The wind has returned! Quick, let's go gliding!
+Good Morning	 Morning! What's in store for today?
+Good Afternoon	 My tummy is rumbling, but I can't get caught pilfering food from the Dawn Winery again... Oh, it's you! Where are you heading? May I join?
+Good Evening	 I'm still not sleepy, fancy an evening stroll?
+Good Night	 Off to the land of nod? Haha, Farewell my friend!
+About Venti	 Practice? Me? There's no need - I already know every song in Teyvat!
+About Us: New Songs	 I have decided to write a song about you! What are you giving me that look for? Can't afford it? Don't be preposterous, the price for you my friend is precisely zero Mora! Although... one thing you could do is tell me a few more of your stories!
+About Us: Heroes
+Item Companionship EXP.png Friendship Lv. 6
+  Haha, once the (hero/heroine) in the song has actually rescued the (princess/prince), I will ensure this song spreads to every corner of the continent!
+About Us: Apostles
+Item Companionship EXP.png Friendship Lv. 6
+UI Quest.png Song of the Dragon and Freedom
+ An evening breeze really sets the mood for becoming my disciple, don't you think? We can do it right now, you just need to make me a small offering...
+About Us: Requests
+Item Companionship EXP.png Friendship Lv. 6
+UI Quest.png Song of the Dragon and Freedom
+ What's that? You think I should try harder to be a good Anemo Archon? Well you could be a better devotee too... you could be more pious, more passionate, or... um...
+About the Vision
+Item Companionship EXP.png Friendship Lv. 4
+ Hmm? You want to know about my Vision? Oh, go on then, take a look for yourself. I can make you a matching one if you like! Hehehe.
+Something to Share	 Olah! Haha, that's how the Hilichurls say "hello". Why, I learned it to aid with my songwriting, of course! Vast knowledge makes for a richer composition... That said, I haven't actually written any songs in Hilichurlian so far...
+Interesting Things	 Traveler, have you ever seen a cecilia? It's a magnificent white wildflower that only grows on the most remote mountains and clifftops. To me, at least, it is the most beautiful flower in all of Teyvat.
+About Jean
+Item Companionship EXP.png Friendship Lv. 4
+ Acting Grand Master Jean... Well, what do you think of her? Yes, I couldn't agree more: conscientious, courageous... kind and considerate too. Reminds me of another good friend...
+About Diluc
+Item Companionship EXP.png Friendship Lv. 4
+ I'm not surprised you want to befriend Master Diluc, just think of all vintage wine he must have stored away... Mwuhahaha... Huh? He doesn't let you sample it? Not even the slightest drop? Huh... Well, I guess you can still appreciate the aroma. That's still better than no wine at all, right? No?
+About Barbara
+Item Companionship EXP.png Friendship Lv. 4
+ The darling Deaconess with the sweet singing voice — do you know her? You do? Idol, huh? Meet and greets? Concerts? Wow... That's the power of music for you...
+About Razor
+Item Companionship EXP.png Friendship Lv. 4
+ Ah yes, the white-haired fellow from Wolvendom? Raised by wolves? Really? ... No wonder his scent is so familiar...
+About Mona
+Item Companionship EXP.png Friendship Lv. 4
+ Oh, that astrologer? How should I put it? Fortune telling and my singing are the same both lead to you being so poor you can't even cough up the money for a drink! ...You think that astrology is a cultural tradition, so at least still has some value? Hmph, so rude. In that case, so too is singing, so it still has its value too!
+About Diona
+Item Companionship EXP.png Friendship Lv. 4
+ There's a special drink known far and wide at Cat's Tail. But it ah... ahh... ACHOO! *sniffs* How about you go and fetch one for me? I'll be truly thankful, I promise.
+About Albedo
+Item Companionship EXP.png Friendship Lv. 4
+ How do you explain white chalk in black soil, or the earth's dense crust amidst the emptiness of space? Same reason the purest soil gave birth to human life... It's an ancient power with unmistakable properties. Trying to harness it is dangerous indeed, I can't imagine what would happen if someone lost control of it in the city... Ah, never mind! What goes on within Mondstadt's walls is up to Mondstadt's people to deal with!
+About Morax
+Item Companionship EXP.png Friendship Lv. 4
+UI Quest.png A New Star Approaches
+ Have you seen that gentleman around? Huh? He's just a normal man by the name of Zhongli now? That must be quite the change for that old block-head. Come with me to see him, will you? I have a vintage I dug up from Windrise that I can take as a condolence gift. Oh, ahh... did he still seem strong when you saw him? How strong? Am I likely to get blown away?
+About Eula
+Item Companionship EXP.png Friendship Lv. 4
+ Eula has good taste when it comes to beverages of the alcoholic variety. Come summer or winter, she always likes them ice-cold. That's rare among Mondstadters these days! She and I would make great drinking buddies. Huh? My songs about the Lawrence Clan... She's heard them already? Eh, no harm done. Maybe she and I can do a duet sometime!
+About Baal
+Item Companionship EXP.png Friendship Lv. 4
+UI Quest.png Omnipresence Over Mortals
+ So, I hear you defeated the mighty Raiden Shogun? Ah, I recall the days when she was a kagemusha, seeking to perfect her martial prowess. Hehe, she now no doubt employs a wide range of reasoning to get you to train with her. Oh but yes, come close and I shall let you in on her weakness — desserts!
+More About Venti: I	 Perfect timing, Traveler! I was about to ask you — what is your greatest wish?
+More About Venti: II
+Item Companionship EXP.png Friendship Lv. 3
+ There's never a dull moment traveling with you! The only minor inconvenience is that pesky little pixie thing that follows you everywhere... she never stops eating, I can't begin to imagine how much you spend on food!
+More About Venti: III
+Item Companionship EXP.png Friendship Lv. 4
+ The Pyro Archon is a wayward, warmongering wretch, and the Geo Archon is a brutish blundering buffoon! How do I know? Because, this is written in the epic poems of days gone by!
+More About Venti: IV
+Item Companionship EXP.png Friendship Lv. 5
+ Celestia... I'm not sure even I could fly that far. In any case, the water there tastes foul and the fruit is bland. You know what that means? No cider! Haha, in that case, I wouldn't go there even if I was invited.
+More About Venti: V
+Item Companionship EXP.png Friendship Lv. 6
+ My greatest wish? It has always been to roam free and experience the whole world. Now I would add that wherever I go, it simply must be with you! Each day with you is an adventure, and where adventurers go, storytellers must follow!
+Venti's Hobbies	 I like to drink! And I like the wind! If only there were such a thing as wind-brewed cider...
+Venti's Troubles	 I'm actually highly allergic to cats, I start sneezing as soon as they enter the vicinity, and... Aaah... Aa-choo! Ugh, apparently I can't even THINK about cats without sneezing. Do you think there is a cure for this monstrous affliction?
+Favorite Food	 Here, have an apple. I just picked it. Look how ripe and juicy it is... *munching*... Truly the fruit of the gods.
+Least Favorite Food	 What's that tasty morsel you've got there... Eew! A melted cheese pancake! A smelly, sticky, slimy disgusting mess!
+Birthday	 Someone once told me you're supposed to eat a cake on your birthday... Tada! Here's your birthday cake — it's apple flavored! And here's a spoon. The cake didn't rise properly in the oven, that's why it looks more akin to an apple pie... Ugh, baking is really quite complicated!
+Feelings About Ascension: Intro
+Icon Character Ascension Unlocked.svg Ascension Phase 1
+ Woah! What was that?
+Feelings About Ascension: Building Up
+Icon Character Ascension Unlocked.svg Ascension Phase 2
+ Good work. Shall we repose for a moment, with a tune? Shall it be a capriccio, or a serenade?
+Feelings About Ascension: Climax
+Icon Character Ascension Unlocked.svg Ascension Phase 4
+ Come, sit with me. I've written a new poem. I call it "Wind of the Traveler."
+Feelings About Ascension: Conclusion
+Icon Character Ascension Unlocked.svg Ascension Phase 6
+ Hmm... Though I've long since viewed this scenery a great many times, there is something different about seeing it again with you. Surely you're not still concealing some other wondrous abilities? Hmm, even if you were, it would simply further prove that my intuition is correct.
